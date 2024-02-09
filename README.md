@@ -11,7 +11,7 @@
         - prikaz konfuzione matrice i konzolnog ispisa statističkih metrika
 - U `./src/` direktorijumu se nalaze `*.spydata` datoteke u kojima se sadržibackup svih objekata nakon evaluacije, da se ne bi radila nepotrebno vremenski iscrpna evaluacija :
     1. `2000-epoha.src.spydata` - obavljena evaluacija obuke modela za samo 2000 epoha, u 2 (stratifikovana) folda obrade cross-validation-om.
-    2. `ceo-src.spydata` - obavljena evaluacija obuke modela za 50 epoha u 3 folda (sada KFold-om - 'shuffeled') obrade cross-validation-om.
+    2. `ceo-src.spydata` - obavljena evaluacija obuke modela za 50 epoha u 3 folda (sada KFold-om - 'shuffled') obrade cross-validation-om.
     > Za više informacija videti `./src/za-ucitavanje-spydata.md`.
 - Okruženje nad kojim je testiran projekat je `Anaconda3-2023.09-0...`, `Spyder IDE 5.5.0`, `python 3.11`, 
 - Ekstenzije moguće potrebne (za skidanje ekstenzija potrebna je jača internet konekcija - možda jača od 50Mbps) :
