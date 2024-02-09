@@ -1,0 +1,1 @@
+Za učitavanje spydata fajla, izvršiti kroz konzolu okruženja Spyder-a funkciju iz **main.py** `def baseline_model(...):...`.
