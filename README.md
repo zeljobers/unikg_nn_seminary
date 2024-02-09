@@ -15,13 +15,6 @@
     > Za više informacija videti `./src/za-ucitavanje-spydata.md`.
 - Okruženje nad kojim je testiran projekat je `Anaconda3-2023.09-0...`, `Spyder IDE 5.5.0`, `python 3.11`, 
 - Ekstenzije moguće potrebne (za skidanje ekstenzija potrebna je jača internet konekcija - možda jača od 50Mbps) :
-- Seminarski rad u sebi ima ovakav sadržaj:
-    1. Postavka zadatka
-    2. Vizuelizacija
-    3. Pojašnjenje korišćene arhitekture i potrebe za njom
-    4. Statističke metrike i doneti zaključci
-    5. Izvršavanje optimizacije hiperparametara neuronske mreže
-    6. Pojašnjenje prednosti i mana ovih metoda
 ```
 matplotlib
 numpy
@@ -38,3 +31,10 @@ scipy
 keras-gpu
 ```
 Ako i dalje ne štima nešto videti/upotrebiti (pri importu kao environment) `conda-reqs.yaml`.
+- Seminarski rad u sebi ima ovakav sadržaj:
+    1. Postavka zadatka
+    2. Vizuelizacija
+    3. Pojašnjenje korišćene arhitekture i potrebe za njom
+    4. Statističke metrike i doneti zaključci
+    5. Izvršavanje optimizacije hiperparametara neuronske mreže
+    6. Pojašnjenje prednosti i mana ovih metoda
